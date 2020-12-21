@@ -4,7 +4,7 @@ let str = 'str'
 let numberOrString :number|string
 
 function getLength(input: string|number): number {
-    const str = input as string             //as 类型断言 告诉编译器我要把它作为string使用
+    const str = input as string             //as 类型断言 告诉编译器我要把它作为string使用,可以使用string的方法
     if(str.length){
         return str.length
     }else {
