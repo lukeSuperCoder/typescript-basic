@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b73bd0d9-aa4a-4272-bc14-a67e12d7443b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/type-inference-and-more.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-interface.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/enum.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generics.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/type-alias.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,6 +21,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="TypeScript File" />
       </list>
     </option>
@@ -93,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608543439415</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="新增class.js文件">
+      <created>1608605215507</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608605215507</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,19 +114,22 @@
         <option value="$PROJECT_DIR$/test.js" />
         <option value="$PROJECT_DIR$/typescript-basic.js" />
         <option value="$PROJECT_DIR$/interface-basic.js" />
+        <option value="$PROJECT_DIR$/enum.js" />
+        <option value="$PROJECT_DIR$/generics.js" />
       </list>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="index" />
     <MESSAGE value="修改redeme文件" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改redeme文件" />
+    <MESSAGE value="新增class.js文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增class.js文件" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="330" y="27" key="CommitChangelistDialog2" timestamp="1608543438645">
+    <state x="330" y="27" key="CommitChangelistDialog2" timestamp="1608605214456">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="330" y="27" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1608543438645" />
+    <state x="330" y="27" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1608605214456" />
     <state x="429" y="147" key="MultipleFileMergeDialog" timestamp="1608544511922">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -124,13 +138,17 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="204" y="150" key="SettingsEditor/0.0.2560.1040@0.0.2560.1040" timestamp="1608562567650" />
-    <state x="312" y="166" key="Vcs.Push.Dialog.v2" timestamp="1608543452847">
+    <state x="312" y="166" key="Vcs.Push.Dialog.v2" timestamp="1608605257776">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="312" y="166" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1608543452847" />
+    <state x="312" y="166" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1608605257776" />
     <state x="395" y="232" key="git4idea.merge.GitPullDialog" timestamp="1608544495573">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="395" y="232" key="git4idea.merge.GitPullDialog/0.0.1440.860@0.0.1440.860" timestamp="1608544495573" />
+    <state x="376" y="195" key="run.anything.popup" timestamp="1608623065762">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="376" y="195" key="run.anything.popup/0.0.1440.860@0.0.1440.860" timestamp="1608623065762" />
   </component>
 </project>
